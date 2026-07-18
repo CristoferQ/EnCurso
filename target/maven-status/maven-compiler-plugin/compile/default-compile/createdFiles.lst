@@ -1,0 +1,12 @@
+com\encurso\domain\Course.class
+com\encurso\service\CourseService.class
+com\encurso\exception\EnrollmentAlreadyExistsException.class
+com\encurso\exception\UserNotFoundException.class
+com\encurso\exception\ValidationException.class
+com\encurso\domain\User.class
+com\encurso\service\UserService.class
+com\encurso\service\EnrollmentService.class
+com\encurso\domain\UserLoginRequest.class
+com\encurso\exception\UserAlreadyExistsException.class
+com\encurso\domain\Enrollment.class
+com\encurso\exception\CourseAlreadyExistsException.class
